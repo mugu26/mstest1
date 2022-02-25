@@ -219,7 +219,7 @@ footer{
 @media screen and (max-width: 580px) {
     .banner{
         width:100%;
-        height: 600px;
+        height: 700px;
         background-image: url(../images/pair.jpg);
         background-repeat: no-repeat;
         background-size: cover;
@@ -260,7 +260,7 @@ footer{
     }
     .menu a{
         text-decoration: none;
-        font-size: 10px;
+        font-size: 15px;
         color:rgb(216, 231, 79);
         font-weight: bolder;
         transition-duration: .5s;
@@ -288,7 +288,7 @@ footer{
     }
     .banner2{
         width:100%;
-        height: 600px;
+        height: 700px;
         background-image: url(../images/heartsbnr.png);
         background-repeat: no-repeat;
         background-size: cover;
