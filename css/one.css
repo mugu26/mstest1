@@ -272,7 +272,7 @@ footer{
         width:90%;
         position: relative;
         top:10px;
-        padding-bottom: 125px;
+        padding-bottom: 150px;
         left: 7px;
         right: 7px;
         font-size: 15px;
@@ -320,7 +320,7 @@ footer{
         position: relative;
         top:75px;
         left: 20px;
-        font-size: 25px;
+        font-size: 30px;
         text-align: left;
     }
     .text2 h1{
@@ -375,7 +375,7 @@ footer{
         margin-bottom: 10px;
     }
     .venue p{
-        font-size: 35px;
+        font-size: 20px;
         line-height: 30px;
         color:rgb(122, 68, 102);
     }
